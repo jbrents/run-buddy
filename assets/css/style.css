@@ -303,3 +303,17 @@ display: inline-block;
 .reach-out a {
     color: #fce138;
 }
+
+.hero-cta h2 {
+    color: #fce138;
+    font-size: 30px;
+    text-align: left;
+    font-style: italic;
+
+}
+
+.hero-cta p {
+    color: white;
+    font-size: 15px;
+    text-align: left;
+}
