@@ -1,3 +1,14 @@
-# Hello Welcome to Run Buddy
-## If you need to access the blah blah make sure to blah blah and ride camels.
-### Thank you.
+# Run Buddy
+
+## Purpose
+A website that offers fitness training services.
+
+## Built With
+* HTML
+* CSS
+
+## Website
+https://lernantino.github.io/run-buddy/
+
+## Contribution
+Made with ❤️ by Jacob
